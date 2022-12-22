@@ -23,5 +23,5 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=sondev811&show_icons=true&count_private=true&theme=radical&include_all_commits=true" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondev811&layout=compact" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/pin/?username=sondev811&repo=smusic&show_owner=true" align="left"/></p>
-<p><img src="https://github-readme-stats.vercel.app/api/pin/?username=sondev811&repo=smovies&show_owner=true" align="center"/></p>
+<a href="https://github.com/sondev811/smusic" target="_blank" align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sondev811&repo=smusic"/></a>
+<a href="https://github.com/sondev811/smovies" target="_blank" align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sondev811&repo=smovies"/></a>
